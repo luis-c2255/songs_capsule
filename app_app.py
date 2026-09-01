@@ -76,7 +76,7 @@ SONGS_BY_YEAR = {
         {"title": "When I was your man", "artist": "Bruno Mars", "yt": "ekzHIouo8Q4"},
         {"title": "Pour It Up", "artist": "Rihanna", "yt": "ehcVomMexkY"},
         {"title": "Get Lucky", "artist": "Daft Punk", "yt": "5NV6Rdv1a3I"},
-        {"title": "Blurred Lines", "artist": "Robin Thicke", "yt": "zwT6DZCQi9k"},
+        {"title": "Your Friend - Original", "artist": "Gregor Salto", "yt": "BzHmGQZFCN0"},
         {"title": "Just give me a reason", "artist": "Pink", "yt": "OpQFFLBMEPI"},
     ],
     2014: [
@@ -116,7 +116,7 @@ SONGS_BY_YEAR = {
     ],
     2019: [
         {"title": "Pa mi, Cuaderno, Que mas pues", "artist": "Dalex", "yt": "cK8DYOZIsMc"},
-        {"title": "Cuaderno", "artist": "Nicky Jam", "yt": "ia-DuwDsiUs"},
+        {"title": "Antes de Morirme (feat. Rosalía)", "artist": "C. Tangana", "yt": "RxKVWs_qYBk"},
         {"title": "No voy  a llorar", "artist": "Natti Natasha", "yt": "Y3KiFoZHjFs"},
         {"title": "Callaita", "artist": "Bad Bunny", "yt": "acEOASYioGY"},
         {"title": "Fingias", "artist": "Paloma Mami", "yt": "ltYUH6fEYdE"},
@@ -129,7 +129,7 @@ SONGS_BY_YEAR = {
         {"title": "El mismo Aire", "artist": "Camilo", "yt": "ZYDj7bys8jo"},
     ],
     2021: [
-        {"title": "Needed Me", "artist": "Rihanna", "yt": "wfN4PVaOU5Q"},
+        {"title": "Needed Me", "artist": "Rihanna", "yt": "aaOjJWOJPRg"},
         {"title": "Pretty Please", "artist": "Dua Lipa", "yt": "ylzhMn6MlVc"},
         {"title": "La Fama", "artist": "Rosalia", "yt": "e-CEd6xrRQc"},
         {"title": "Demasiadas Mujeres", "artist": "C. Tangana", "yt": "ZlFri4ez_lE"},

@@ -163,6 +163,13 @@ SONGS_BY_YEAR = {
         {"title": "Overthink", "artist": "Naarly", "yt": "o3B3dWYJgJQ"},
         {"title": "I Adore You", "artist": "HUGEL", "yt": "KiIc54yyktw"},
     ],
+    2026: [
+        {"title": "", "artist": "", "yt": ""},
+        {"title": "", "artist": "", "yt": ""},
+        {"title": "", "artist": "", "yt": ""},
+        {"title": "", "artist": "", "yt": ""},
+        {"title": "", "artist": "", "yt": ""},
+    ],
 }
 
 ERA_THEMES = {
@@ -188,6 +195,7 @@ ERA_THEMES = {
     2023: {"bg": "#050a08", "accent": "#69ff47", "glow": "#00e676", "era": "2020s", "vibe": "Deep desert melodies, sunset grooves, and stadium liberation"},
     2024: {"bg": "#080a05", "accent": "#ffd740", "glow": "#ffab00", "era": "2020s", "vibe": "High-roller afro house and 4 AM sunrise tension"},
     2025: {"bg": "#050808", "accent": "#40c4ff", "glow": "#0091ea", "era": "Now",   "vibe": "Tulum-to-Ibiza swing, sultry drops, and afro-latin heat"},
+    2026: {"bg": "#050808", "accent": "#40c4ff", "glow": "#0091ea", "era": "Now", "vibe": ""},
 }
 
 CSS = """

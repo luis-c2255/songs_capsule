@@ -26,7 +26,8 @@ ERA_THEMES = {
     2022: {"bg": "#0a0508", "accent": "#ff80ab", "glow": "#ff4081", "era": "2020s", "vibe": "Club-kid flair, neo-folklore, and runway energy"},
     2023: {"bg": "#050a08", "accent": "#69ff47", "glow": "#00e676", "era": "2020s", "vibe": "Deep desert melodies, sunset grooves, and stadium liberation"},
     2024: {"bg": "#080a05", "accent": "#ffd740", "glow": "#ffab00", "era": "2020s", "vibe": "High-roller afro house and 4 AM sunrise tension"},
-    2025: {"bg": "#050808", "accent": "#40c4ff", "glow": "#0091ea", "era": "Now",   "vibe": "Tulum-to-Ibiza swing, sultry drops, and afro-latin heat"},
+    2025: {"bg": "#050808", "accent": "#40c4ff", "glow": "#0091ea", "era": "2020s",   "vibe": "Tulum-to-Ibiza swing, sultry drops, and afro-latin heat"},
+    2026: {"bg": "#050808", "accent": "#40c4ff", "glow": "#0091ea", "era": "Now", "vibe": ""},
 }
 
 def load_songs():

@@ -164,9 +164,9 @@ SONGS_BY_YEAR = {
         {"title": "I Adore You", "artist": "HUGEL", "yt": "KiIc54yyktw"},
     ],
     2026: [
-        {"title": "", "artist": "", "yt": ""},
-        {"title": "", "artist": "", "yt": ""},
-        {"title": "", "artist": "", "yt": ""},
+        {"title": "La Perla", "artist": "Rosalía", "yt": "GkTWxDB21cA"},
+        {"title": "I Drink Wine", "artist": "Adele", "yt": "jDvYDzFOK9A"},
+        {"title": "Ivonny Bonita", "artist": "Karol G", "yt": "YcBUfrOguRQ"},
         {"title": "", "artist": "", "yt": ""},
         {"title": "", "artist": "", "yt": ""},
     ],
